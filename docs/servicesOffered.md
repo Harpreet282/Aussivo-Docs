@@ -2,7 +2,6 @@
 title: Services Offered
 ---
 
-## Services Offered
 
 **Aussivo Compute:** VM instances (CPU/GPU) with Basic and Enhanced security tiers.
 
