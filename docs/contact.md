@@ -4,21 +4,20 @@ title: Contact & Appendix
 
 ### Contact
 
-**Web:** www.aussivo.com
+- **Web:** www.aussivo.com
 
-**Telegram:** t.me/aussivo_official
+- **Telegram:** t.me/aussivo_official
 
-**Twitter/X:** @aussivo_chain
+- **Twitter/X:** @aussivo_chain
 
-**Email:** contact@aussivo.com
+- **Email:** contact@aussivo.com
 
 ### Appendix
 
-**SPoS:** Secure Proof‑of‑Stake consensus.
+- **SPoS:** Secure Proof‑of‑Stake consensus.
 
-**Meta‑tx:** Gasless transactions via sponsored relayers.
+- **Meta‑tx:** Gasless transactions via sponsored relayers.
 
-**Gastank:** Relayer protocol enabling wallet‑free UX.
+- **Gastank:** Relayer protocol enabling wallet‑free UX.
 
-**DePIN:** Decentralized Physical Infrastructure Network.
-
+- **DePIN:** Decentralized Physical Infrastructure Network.
