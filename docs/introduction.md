@@ -5,7 +5,10 @@ description: Discover Aussivo's vision of a decentralized, blockchain-powered di
 
 # Introduction
 
-**Aussivo pioneers a decentralized infrastructure revolution** — an autonomous, blockchain-powered ecosystem delivering scalable compute, hosting, and digital services on demand.
+
+:::info Aussivo pioneers a decentralized infrastructure revolution :
+an autonomous, blockchain-powered ecosystem delivering scalable compute, hosting, and digital services on demand.
+:::
 
 ## Vision
 

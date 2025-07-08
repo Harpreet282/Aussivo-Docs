@@ -39,17 +39,7 @@ module.exports = {
     {
       type: 'doc',
       id: 'regulatoryCompliance',
-      label: 'Regulatory & Compliance',
-    },
-    {
-      type: 'doc',
-      id: 'tokenomicsStressTest',
-      label: 'Tokenomics Stress-Test Scenarios',
-    },
-    {
-      type: 'doc',
-      id: 'securityAudits',
-      label: 'Security Audits & Partnerships',
+      label: 'Security & Compliance',
     },
     {
       type: 'doc',
