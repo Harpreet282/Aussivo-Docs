@@ -49,12 +49,8 @@ module.exports = {
     {
       type: 'doc',
       id: 'contact',
-      label: 'Contact',
+      label: 'Contact & Appendix',
     },
-    {
-      type: 'doc',
-      id: 'appendix',
-      label: 'Appendix',
-    },
+    
   ],
 };

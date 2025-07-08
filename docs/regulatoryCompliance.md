@@ -2,14 +2,14 @@
 title: Security & Compliance
 ---
 
-## Regulatory & Compliance
+### Regulatory & Compliance
 
 **Data Sovereignty:** Allows region-specific node selection to meet local data residency requirements.
 
 **GDPR:** On-chain audit trails support data subject access requests and breach reporting obligations.
 
 
-## Tokenomics Stress-Test Scenarios
+### Tokenomics Stress-Test Scenarios
 
 **Throughput & Scalability:** We aim to support high transaction throughput and will define specific TPS targets as the network matures.
 
@@ -20,7 +20,7 @@ title: Security & Compliance
 **Security Proof Cadence:** Regular security attestations will be on-chain; the optimal frequency and SLAs will be determined based on operational insights.
 
 
-## Security Audits & Partnerships
+### Security Audits & Partnerships
 
 **Third-Party Audits:** Engaging CertiK and Trail of Bits for SPoS and ASA code reviews.
 
