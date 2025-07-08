@@ -2,7 +2,6 @@
 title: Performance Metrics & Benchmarks
 ---
 
-
 **Throughput Target:** 5,000 TPS on SPoS layer within Phase 1.
 
 **Latency SLAs:** &lt;100 ms provisioning time for standard VM instances.

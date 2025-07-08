@@ -2,7 +2,6 @@
 title: Tokenomics
 ---
 
-
 **ASVO Token** (2 billion supply, deflationary):
 
 **Utilities:** Service payments, staking, governance, relayer rewards, collateral for validators.
@@ -18,5 +17,3 @@ title: Tokenomics
 | Exchange Liquidity & Market Making | 5% | 100 M | Fully liquid at TGE |
 | Community Marketing | 5% | 100 M | KPI-based release over 6-12 mo |
 | **Total** | **100%** | **2,000 M** | |
-
-

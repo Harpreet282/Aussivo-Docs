@@ -2,7 +2,6 @@
 title: Services Offered
 ---
 
-
 **Aussivo Compute:** VM instances (CPU/GPU) with Basic and Enhanced security tiers.
 
 **Aussivo Storage:** S3‑compatible object storage with on‑chain lifecycle management.

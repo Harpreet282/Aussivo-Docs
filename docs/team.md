@@ -2,7 +2,6 @@
 title: Team
 ---
 
-
 **Victor Sibastian:** Aussivo architect, ex‑Cloud Infra Strategist.
 
 **Devansh (ABC):** Blockchain & zkEVM expert.

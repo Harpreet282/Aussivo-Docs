@@ -2,7 +2,6 @@
 title: Appendix
 ---
 
-
 **SPoS:** Secure Proof‑of‑Stake consensus.
 
 **Meta‑tx:** Gasless transactions via sponsored relayers.
