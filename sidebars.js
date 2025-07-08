@@ -5,21 +5,7 @@ module.exports = {
       id: 'introduction',
       label: 'Introduction',
     },
-    {
-      type: 'doc',
-      id: 'problemStatement',
-      label: 'Problem Statement',
-    },
-    {
-      type: 'doc',
-      id: 'solutionOverview',
-      label: 'Solution Overview',
-    },
-    {
-      type: 'doc',
-      id: 'architectureOverview',
-      label: 'Architecture Overview',
-    },
+   
     {
       type: 'doc',
       id: 'depinMechanics',
@@ -52,11 +38,6 @@ module.exports = {
     },
     {
       type: 'doc',
-      id: 'performanceMetrics',
-      label: 'Performance Metrics & Benchmarks',
-    },
-    {
-      type: 'doc',
       id: 'regulatoryCompliance',
       label: 'Regulatory & Compliance',
     },
@@ -74,11 +55,6 @@ module.exports = {
       type: 'doc',
       id: 'roadmap',
       label: 'Roadmap',
-    },
-    {
-      type: 'doc',
-      id: 'team',
-      label: 'Team',
     },
     {
       type: 'doc',
