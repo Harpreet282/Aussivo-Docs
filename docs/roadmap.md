@@ -10,3 +10,4 @@ title: Roadmap
 
 **Phase 4 (2028):** Strategic partnerships and major exchange listings.
 
+<img src="/img/roadmap.png" alt="Data Flow Diagram" width="1000" height="500" />

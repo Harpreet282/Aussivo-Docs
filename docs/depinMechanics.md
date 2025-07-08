@@ -17,3 +17,5 @@ title: DePIN Mechanics
 **Tiered Staking Pools:** Dynamic APYs and lockup periods drive long-term participation.
 
 **DAO‑Driven Decisions:** ASVO holders vote on upgrades and policy; GateSeal emergency override secures the network against critical threats.
+
+<img src="/img/depin.png" alt="Data Flow Diagram" width="800" height="600" />

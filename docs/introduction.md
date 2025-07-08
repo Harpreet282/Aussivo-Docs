@@ -64,6 +64,7 @@ Secure Proof‑of‑Stake with validator sharding and randomness-based selection
 
 ### Data Verification Flow  
 Users → Relayers → Aussivo Blockchain → Nodes/Services → Output
+<img src="/img/data_verification.png" alt="Data Flow Diagram" width="1000" height="500" />
 
 ### Full Hosting Flow  
 1. Connect Web3 wallet.  
@@ -71,3 +72,5 @@ Users → Relayers → Aussivo Blockchain → Nodes/Services → Output
 3. Choose provider (Aussivo DC, AWS, Alibaba Cloud).  
 4. Configure resource and pay with ASVO or stablecoin.  
 5. Provision resource; record ownership, billing, and security proofs on-chain.
+
+<img src="/img/hosting.png" alt="Data Flow Diagram" width="1000" height="500" />
