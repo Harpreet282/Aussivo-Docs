@@ -22,7 +22,7 @@ An eight-stage process engineered for reliability, auditability, and security:
 
 8. **Service Activation & Monitoring:** Front-end updates user dashboard with resource endpoints, provisioning status, and security attestation history.
 
-<img src="/img/hosting.png" alt="Data Flow Diagram" width="1000" height="500" />
+<img src="/img/full_hosting.png" alt="Data Flow Diagram" width="1000" height="500" />
 
 ## Security Agent Workflow ⚙️
 
@@ -35,3 +35,5 @@ An eight-stage process engineered for reliability, auditability, and security:
 | **Hash Signing & Storage** | Encrypted software key inside VM                      | Tamper-resistant enclave key                                  |
 | **On-Chain Anchoring**   | Relayer posts signed hash                                | Relayer posts enclave-signed hash                             |
 | **Verification & Audit** | SPoS nodes verify signature integrity                    | SPoS nodes verify hardware attestation                        |
+
+<img src="/img/security_agent.png" alt="Data Flow Diagram" width="1000" height="600" />

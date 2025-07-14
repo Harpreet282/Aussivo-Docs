@@ -103,6 +103,5 @@ Aussivo’s architecture fuses advanced blockchain and cloud paradigms to elimin
 | **AI Marketplace**     | Curates, benchmarks, and deploys distributed applications via smart-contract orchestration. |
 | **Cross-Chain Bridges** | ZK and multisig bridges facilitate secure asset and message transfer across heterogeneous networks. |
 
-### Data Verification Flow  
-Users → Relayers → Aussivo Blockchain → Nodes/Services → Output
-<img src="/img/data_verification.png" alt="Data Flow Diagram" width="1000" height="500" />
+### Component Diagram
+<img src="/img/component_diagram.png" alt="Data Flow Diagram" width="1000" height="500" />

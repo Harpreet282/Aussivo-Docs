@@ -9,4 +9,4 @@ title: Roadmap
 | **Phase 3** | 2027                 | Full production marketplace, global node operator expansion, resource NFT marketplace launch.   |
 | **Phase 4** | 2028                 | Forge strategic cloud-vendor partnerships, listing on top exchanges, launch advanced AI services. |
 
-<img src="/img/roadmap.png" alt="Data Flow Diagram" width="1000" height="500" />
+<img src="/img/roadmap.png" alt="Data Flow Diagram" width="800" height="800" />
