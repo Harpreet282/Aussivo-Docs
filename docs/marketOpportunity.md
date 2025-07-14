@@ -12,6 +12,6 @@ The intersection of cloud computing and blockchain unlocks massive market potent
 
 - **Web3 Ecosystem Acceleration:** Gasless UX and one-click deployments reduce barriers to decentralized application development, spanning IoT, finance, gaming, and enterprise SaaS.
 
-### Growth Forecast
-
+:::info Growth Forecast :
 Based on early pilot deployments, we anticipate **10× year-over-year network utilization growth** in the first two years post-launch.
+:::

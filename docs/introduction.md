@@ -45,9 +45,9 @@ Leading cloud platforms and emerging blockchain networks each exhibit critical s
 - **Key Management Risks:** Self-custody wallets expose enterprises to operational key loss and recovery challenges.
 - **Interoperability Gaps:** Multiple networks with disparate consensus models create integration bottlenecks.
 
-**Aussivo’s Solution:**  
+:::info Aussivo’s Solution :
 We unify cloud and blockchain ecosystems under a single, coherent framework—combining on-chain provenance, continuous security attestation, gasless operations, and cross-chain interoperability—empowering organizations to deploy and audit infrastructure with confidence and ease.
-
+:::
 
 ## 3. Our Solution
 

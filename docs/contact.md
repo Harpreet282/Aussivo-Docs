@@ -6,11 +6,24 @@ title: Contact Information & Glossary
 
 - **Web:** www.aussivo.com
 
-- **Telegram:** t.me/aussivo_official
+- **Telegram:** https://t.me/aussivo_official
 
-- **Twitter/X:** @aussivo_chain
+- **Twitter/X:** https://x.com/aussivo
 
 - **Email:** contact@aussivo.com
+
+- **LinkedIn:** https://www.linkedin.com/in/aussivo/
+
+- **Reddit:** https://www.reddit.com/user/Different_One_6692/
+
+- **Discord:** https://discord.gg/MF53Ww9s6g
+
+- **Youtube:** https://www.youtube.com/@Aussivo
+
+- **Medium:** https://medium.com/@aussivo.official
+
+- **Instagram:** https://www.instagram.com/aussivo_official/
+
 
 ### Glossary of Key Terms
 
