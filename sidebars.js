@@ -14,12 +14,12 @@ module.exports = {
     {
       type: 'doc',
       id: 'servicesOffered',
-      label: 'Services Offered',
+      label: 'Services & Operational Workflows',
     },
     {
       type: 'doc',
       id: 'tokenomics',
-      label: 'Tokenomics',
+      label: 'Coinomics & Distribution',
     },
     {
       type: 'doc',
@@ -29,23 +29,30 @@ module.exports = {
     {
       type: 'doc',
       id: 'competitiveAdvantage',
-      label: 'Competitive Advantage',
+      label: 'Competitive Landscape & Differentiation',
     },
     {
       type: 'doc',
       id: 'useCases',
       label: 'Use Cases & Customer Scenarios',
     },
-    {
-      type: 'doc',
-      id: 'regulatoryCompliance',
-      label: 'Security & Compliance',
-    },
+    
     {
       type: 'doc',
       id: 'roadmap',
       label: 'Roadmap',
     },
+    {
+      type: 'doc',
+      id: 'regulatoryCompliance',
+      label: 'Performance Monitoring & Analytics',
+    },
+    {
+      type: 'doc',
+      id: 'team',
+      label: 'Team & Ecosystem Partners',
+    },
+ 
     {
       type: 'doc',
       id: 'contact',

@@ -1,8 +1,8 @@
 ---
-title: Contact & Appendix
+title: Contact Information & Glossary
 ---
 
-### Contact
+### Contact Information
 
 - **Web:** www.aussivo.com
 
@@ -12,12 +12,16 @@ title: Contact & Appendix
 
 - **Email:** contact@aussivo.com
 
-### Appendix
+### Glossary of Key Terms
 
-- **SPoS:** Secure Proof‑of‑Stake consensus.
+- **SPoS:** Secure Proof-of-Stake consensus leveraging VRF-driven sharding.
 
-- **Meta‑tx:** Gasless transactions via sponsored relayers.
+- **zk-Rollups:** Layer-2 scaling strategy batching transactions off-chain with proof commitments.
 
-- **Gastank:** Relayer protocol enabling wallet‑free UX.
+- **Gastank:** Relay protocol sponsoring gas to enable wallet-free UX.
 
-- **DePIN:** Decentralized Physical Infrastructure Network.
+- **COIN (ASVO):** Deflationary currency driving payments, staking, and governance.
+
+- **DePIN:** Decentralized Physical Infrastructure Network incentivizing real-world compute contributions.
+
+- **EIP-1559 Burn:** Fee burn mechanism reducing COIN supply to sustain long-term value.

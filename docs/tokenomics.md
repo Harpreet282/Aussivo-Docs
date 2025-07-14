@@ -1,19 +1,19 @@
 ---
-title: Tokenomics
+title: Coinomics & Distribution
 ---
 
-### **ASVO Token** (2 billion supply, deflationary):
+## Aussivo COIN (ASVO)
 
-- **Utilities:** Service payments, staking, governance, relayer rewards, collateral for validators.
+**Total Supply:** 2,000,000,000 ASVO  
+ASVOCOIN underpins all economic and governance operations within Aussivo’s ecosystem.
 
-## Token Allocation
+### Allocation Table
 
-| Category | % of Supply | Allocation (ASVO) | Vesting |
-|----------|------------|-------------------|---------|
-| Capital Raise | 35% | 700 M | Multi-phase, round-specific cliffs |
-| Ecosystem Growth & Nodes | 30% | 600 M | 5-year programmatic release |
-| Team & Core Contributors | 10% | 200 M | 12-month cliff; 36-month vesting |
-| Treasury & Partnerships | 15% | 300 M | 12-month cliff; 60-month vesting |
-| Exchange Liquidity & Market Making | 5% | 100 M | Fully liquid at TGE |
-| Community Marketing | 5% | 100 M | KPI-based release over 6-12 mo |
-| **Total** | **100%** | **2,000 M** | |
+| **Category**                      | **Allocation** | **Vesting Details**                                      |
+|----------------------------------|----------------|----------------------------------------------------------|
+| **Capital Raise**                | 35% (700M)     | Multi-phase funding rounds with cliff schedules          |
+| **Ecosystem & Node Incentives**  | 30% (600M)     | Programmatic linear release over 5 years                 |
+| **Team & Core Contributors**     | 10% (200M)     | 12-month cliff, followed by 36-month linear vesting      |
+| **Treasury & Strategic Partnerships** | 15% (300M) | 12-month cliff, 60-month linear vesting                  |
+| **Liquidity & Market-Making**    | 5% (100M)      | Fully liquid at token generation event (TGE)             |
+| **Community & Developer Grants** | 5% (100M)      | KPI-based unlocks across 6–12 month cycles               |

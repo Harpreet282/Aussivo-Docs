@@ -1,13 +1,19 @@
 ---
-title: Competitive Advantages
+title: Competitive Landscape & Differentiation
 ---
 
-| Feature | Aussivo | Akash / Flux / Helium / AWS |
-|---------|---------|----------------------------|
-| Ease of Use | 1-Click Deploy | Manual configurations or centralized workflows |
-| Blockchain | Native SPoS + Gastank | Cosmos-based / PoW / PoC / Proprietary |
-| Gas Fees | Gasless (Gastank Protocol) | Native token fees |
-| Service Scope | Compute, Storage, AI, DApps, Marketplace | Limited to compute/storage or connectivity |
-| Ownership Model | Fractional Ownership | Rental-based or hotspot ownership |
-| Transparency | On-chain verifiable operations | Less explicit or opaque |
-| Security | AI-Powered ASA, Trusted Launch, Nitro Enclave attestation | Standard blockchain or centralized controls |
+We benchmark Aussivo against top decentralized and centralized cloud providers to highlight our unique value proposition.
+
+### Feature Comparison
+
+| **Feature**                     | **Aussivo** | **Akash** | **Flux** | **Helium** | **AWS** | **GCP** | **Azure** |
+|---------------------------------|-------------|-----------|----------|------------|---------|---------|----------|
+| **One-Click Deployment**        | ✓           | ✗         | ✗        | ✗          | ✗       | ✗       | ✗        |
+| **Zero-Gas Meta-Tx**           | ✓           | ✗         | ✗        | ✗          | ✗       | ✗       | ✗        |
+| **Fractional COIN Ownership**   | ✓           | ✗         | ✗        | ✓          | ✗       | ✗       | ✗        |
+| **Immutable Security Attestations** | ✓      | ✗         | ✗        | ✗          | ✗       | ✗       | ✗        |
+| **zk-Rollup Scalability**       | ✓           | ✗         | ▲        | ✗          | ✗       | ✗       | ✗        |
+| **Cross-Chain Interoperability**| ✓           | ▲         | ✗        | ✗          | ✗       | ✗       | ✗        |
+| **Enterprise Compliance & Certs**| ✓          | ✗         | ✗        | ✗          | ✓       | ✓       | ✓        |
+
+> **Legend:** ✓ = Fully supported  ▲ = Partial  ✗ = Not supported
