@@ -4,8 +4,9 @@ title: Coinomics & Distribution
 
 ## Aussivo COIN (ASVO)
 
-**Total Supply:** 2,000,000,000 ASVO  
+:::info **Total Supply:** 2,000,000,000 ASVO
 ASVOCOIN underpins all economic and governance operations within Aussivo’s ecosystem.
+:::
 
 ### Allocation Table
 

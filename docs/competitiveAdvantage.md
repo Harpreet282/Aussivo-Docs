@@ -2,7 +2,7 @@
 title: Competitive Landscape & Differentiation
 ---
 
-We benchmark Aussivo against top decentralized and centralized cloud providers to highlight our unique value proposition.
+>We benchmark Aussivo against top decentralized and centralized cloud providers to highlight our unique value proposition.
 
 ### Feature Comparison
 
