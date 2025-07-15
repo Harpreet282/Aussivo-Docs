@@ -16,4 +16,4 @@ title: DePIN Ecosystem & Governance
 - **DAO Proposals & Voting:** Off-chain proposal submission with on-chain vote tallying, culminating in automated protocol upgrades.
 - **GateSeal Emergency Mechanism:** Rapid activation through DAO votes to revoke malicious validator keys or pause protocol upgrades in crisis scenarios.
 
-<img src="/img/depin_diagram.png" alt="Data Flow Diagram" width="1000" height="500" />
+<img src="/img/depin_img.png" alt="Data Flow Diagram" width="1000" height="500" />
