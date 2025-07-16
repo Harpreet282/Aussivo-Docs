@@ -18,3 +18,6 @@ ASVOCOIN underpins all economic and governance operations within Aussivo’s eco
 | **Treasury & Strategic Partnerships** | 15% (300M) | 12-month cliff, 60-month linear vesting                  |
 | **Liquidity & Market-Making**    | 5% (100M)      | Fully liquid at token generation event (TGE)             |
 | **Community & Developer Grants** | 5% (100M)      | KPI-based unlocks across 6–12 month cycles               |
+
+
+<img src="/img/tokonomics_diagram.png" alt="Tokonomics Diagram" width="1000" height="500" />
