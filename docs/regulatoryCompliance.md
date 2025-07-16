@@ -13,3 +13,5 @@ Our integrated analytics platform presents real-time and historical network insi
 - **Security Attestation History:** Audit timeline of ASA proof submissions with anomaly alerts.
 
 - **Geographical Utilization Heatmaps:** Region-based resource usage visualizations.
+
+<img src="/img/performance_monitoring.png" alt="Data Flow Diagram" width="1000" height="600" />
