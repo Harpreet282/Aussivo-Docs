@@ -1,5 +1,5 @@
 ---
-title: Coinomics & Distribution
+title: Tokenomics & Distribution
 ---
 
 ## Aussivo COIN (ASVO)

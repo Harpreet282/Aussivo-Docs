@@ -104,4 +104,4 @@ Aussivo’s architecture fuses advanced blockchain and cloud paradigms to elimin
 | **Cross-Chain Bridges** | ZK and multisig bridges facilitate secure asset and message transfer across heterogeneous networks. |
 
 ### Component Diagram
-<img src="/img/component-diagram.png" alt="Component Diagram" width="1000" height="500" />
+<img src="/img/component_diagram.png" alt="Component Diagram" width="1000" height="600" />
