@@ -2,6 +2,11 @@ module.exports = {
   someSidebar: [
     {
       type: "doc",
+      id: "index",
+      label: "Index",
+    },
+    {
+      type: "doc",
       id: "introduction",
       label: "Introduction",
     },
