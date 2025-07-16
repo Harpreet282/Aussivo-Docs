@@ -10,4 +10,4 @@ title: Roadmap
 | **Phase 3** | 2027                 | Full production marketplace, global node operator expansion.   |
 | **Phase 4** | 2028                 | Forge strategic cloud-vendor partnerships, listing on top exchanges, launch advanced AI services. |
 
-<img src="/img/roadmap_diagram.png" alt="Data Flow Diagram" width="600" height="600" />
+<img src="/img/roadmap.png" alt="Data Flow Diagram" width="600" height="600" />
