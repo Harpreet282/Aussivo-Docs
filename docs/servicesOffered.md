@@ -34,16 +34,18 @@ Users can monitor everything in real time — from service activation and endpoi
 
 <img src="/img/full-hosting.png" alt="Data Flow Diagram" width="1000" height="600" />
 
-## Security Agent Workflow ⚙️
+## Security Agent (ASA) Tiers
 
-### Tiered Operation Table
+| **Functionality**        | **Basic Tier**                                | **Enhanced Tier (Nitro Enclave)**                           |
+|--------------------------|-----------------------------------------------|--------------------------------------------------------------|
+| **Deployment**           | Runs as a VM-level software agent             | Runs inside a Nitro Enclave with Trusted Launch              |
+| **Security Checks**      | Malware, rootkits, file & network scans       | All Basic checks + hardware-backed attestation               |
+| **Key Protection**       | Encrypted inside the VM                       | Enclave-based tamper-proof key storage                       |
+| **On-Chain Anchoring**   | Relayer posts signed hash                     | Relayer posts enclave-signed, hardware-verified hash         |
+| **Audit Verification**   | Signature integrity check on-chain            | Hardware attestation verified by SPoS validators             |
 
-| **Stage**                | **Basic Tier**                                           | **Enhanced Tier (Nitro Enclave)**                             |
-|--------------------------|----------------------------------------------------------|---------------------------------------------------------------|
-| **Deployment Mechanism** | Deployed as standard VM agent service                    | Deployed within AWS Nitro Enclave with Trusted Launch         |
-| **Integrity & Malware Scans** | File systems, rootkits, network checks              | Same + hardware-based attestation environment                 |
-| **Hash Signing & Storage** | Encrypted software key inside VM                      | Tamper-resistant enclave key                                  |
-| **On-Chain Anchoring**   | Relayer posts signed hash                                | Relayer posts enclave-signed hash                             |
-| **Verification & Audit** | SPoS nodes verify signature integrity                    | SPoS nodes verify hardware attestation                        |
+### Simplified Data Flow
+
+**User → Wallet Login → Service Selection → Meta-Tx → Relayer → Blockchain → Cloud Instantiation → ASA Scan → Dashboard View**
 
 <img src="/img/security_agent.png" alt="Data Flow Diagram" width="800" height="600" />
