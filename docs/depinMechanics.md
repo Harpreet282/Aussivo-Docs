@@ -2,18 +2,34 @@
 title: DePIN Ecosystem & Governance
 ---
 
-## Participants & Stakeholder Roles
+Aussivo is powered by a decentralized infrastructure network (DePIN) - where multiple roles work together to secure, scale, and grow the ecosystem. Each participant earns rewards and contributes to governance through the $ASVO token.
 
-- **Node Operators:** Deploy and manage hardware nodes to provide compute, storage, and network services.
-- **Users & Developers:** Access on-demand services through the AI marketplace; benefit from metered billing and transparent audit logs.
-- **Stakers:** Stake ASVO in validator pools to secure consensus and participate in reward distribution.
-- **DAO Council:** Governance body leveraging COIN-weighted voting to approve upgrades, parameter changes, and emergency responses.
+## Key Participants & Their Roles
 
-## Incentive Flow & Governance Mechanics
+- **Node Operators**  
+  Set up and manage compute, storage, or networking nodes to keep the Aussivo infrastructure running. They get rewarded based on reliability and performance.
 
-- **Reward Distribution:** Node operators and relayers earn proportional ASVO rewards based on resource utilization, uptime SLAs, and network performance metrics.
-- **Staking Yields:** Inflationary and fee-based yield distribution to stakers, incentivizing long-term network security participation.
-- **DAO Proposals & Voting:** Off-chain proposal submission with on-chain vote tallying, culminating in automated protocol upgrades.
-- **GateSeal Emergency Mechanism:** Rapid activation through DAO votes to revoke malicious validator keys or pause protocol upgrades in crisis scenarios.
+- **Developers & Users**  
+  Use services from the AI Marketplace on demand. All activity is transparently logged on-chain, with fair, metered billing.
+
+- **Stakers**  
+  Lock their $ASVO tokens into validator pools to secure the network and earn staking rewards. Long-term stakers also help stabilize the system.
+
+- **DAO Council**  
+  Token holders propose and vote on upgrades, fee changes, security policies, and more — shaping Aussivo’s future direction.
+
+## Incentives & Governance Flow
+
+- **Reward Distribution**  
+  Node operators, relayers, and service providers earn $ASVO based on uptime, usage, and quality of service (SLA metrics).
+
+- **Staking Yields**  
+  Stakers earn from a mix of protocol inflation and platform fees — with higher rewards for those who commit longer and support network health.
+
+- **DAO Proposals & Voting**  
+  Anyone can submit a proposal off-chain. If the community supports it, on-chain voting kicks in — and if approved, the system upgrades automatically.
+
+- **GateSeal Emergency Switch**  
+  In case of attacks or system threats, the DAO can quickly activate GateSeal to freeze upgrades or disable malicious validators — ensuring safety without central control.
 
 <img src="/img/depin.png" alt="Data Flow Diagram" width="1000" height="500" />
