@@ -12,96 +12,108 @@ an autonomous, blockchain-powered ecosystem delivering scalable compute, hosting
 
 ## 1.Executive Summary
 
-Aussivo is spearheading a paradigm shift in decentralized infrastructure, merging a high-throughput Secure Proof-of-Stake (SPoS) blockchain with cloud-class resource orchestration to deliver unparalleled transparency, security, and usability. Our proprietary zero-knowledge rollup framework batches thousands of transactions off-chain, simultaneously reducing gas costs and preserving trustless finality by anchoring succinct cryptographic proofs on our SPoS ledger. Complementing this is the Gastank gas-sponsorship network, which abstracts away transaction fees entirely from end users—fundamentally reimagining the user experience to be gasless and wallet-agnostic. The entire infrastructure is fueled by our deflationary COIN (ASVO), which underpins everything from compute provisioning to governance participation. Stakeholders—including node operators, stakers, and DAO members—earn ASVO rewards for securing the network, providing services, and contributing to ecosystem governance, driving a self-reinforcing cycle of growth and value capture.
+Aussivo is redefining decentralized infrastructure by combining a fast, scalable blockchain with powerful cloud-native tools - all in one seamless platform
 
-### Key Highlights
+At its core, **Aussivo** uses a **Secure Proof-of-Stake (SPoS)** blockchain enhanced with **zk-rollup** technology, allowing the network to process over **15,000+ transactions per second (TPS)**. This ensures high speed and low fees, without compromising security or decentralization.
 
-- **Scalability:** 5,000+ TPS potential via zk-rollup batching.
-- **Gasless UX:** Gastank relayers sponsor fees across multi-chain endpoints.
-- **Security:** Hardware-rooted attestation via Nitro Enclaves.
-- **Economics:** Deflationary COIN with EIP-1559-style burns.
-- **Governance:** Fully on-chain DAO with emergency GateSeal overrides.
+What makes Aussivo stand out is its **Gastank Protocol**, which sponsors all gas fees for users. This means users can interact with dApps without needing tokens in their wallet — creating a truly **gasless and wallet-free experience**.
+
+Powering the entire ecosystem is **$ASVO**, a deflationary utility token used for compute resources, governance, staking, and transaction execution. Users, node operators, and DAO members all earn $ASVO for contributing to the network — creating a powerful flywheel of adoption and growth.
+
+---
+
+## Key Highlights
+
+- **Scalability**: 15,000+ TPS with zk-rollup and sharding enhancements  
+- **Gasless UX**: No wallet or gas tokens needed for end users  
+- **Built-in Security**: Hardware-based verification with Nitro Enclaves  
+- **Smart Tokenomics**: Deflationary $ASVO with burn mechanics  
+- **Governance Ready**: On-chain DAO and emergency override system (GateSeal)
 
 
-## 2.Problem Statement
+## 2.The Problem We’re Solving
 
-Leading cloud platforms and emerging blockchain networks each exhibit critical shortcomings that stifle innovation and impose hidden costs.
+Today’s infrastructure — both cloud and blockchain — suffers from limitations that slow down innovation, increase costs, and reduce trust.
 
-### 2.1 Centralization & Opacity
+### 2.1 Centralization & Lack of Transparency
 
-- **Hidden Data Lineages:** Enterprises cannot trace data origin or compute context, undermining regulatory compliance.
-- **Lack of Billing Transparency:** Usage metrics are siloed, making cost auditing and chargeback models painfully manual.
-- **Vendor Lock-In:** Proprietary APIs and opaque billing models prevent workload portability.
+- **Untraceable Data Workflows**: Enterprises can’t verify where their data came from or how it was processed  
+- **Hidden Billing Models**: Users struggle to understand or audit cloud billing  
+- **Vendor Lock-In**: Cloud platforms use proprietary APIs, limiting portability  
 
-### 2.2 Security & Trust Deficits
+### 2.2 Security Gaps & Audit Challenges
 
-- **Insufficient Auditable Proofs:** Traditional security monitoring does not generate tamper-proof, verifiable proofs, leaving breach investigations inconclusive.
-- **Sophisticated Threat Vectors:** Attackers exploit supply-chain weaknesses and runtime vulnerabilities without timely detection.
-- **Post-Incident Audits:** Forensic log data can be manipulated or deleted, harming trust during audits.
+- **No Verifiable Proofs**: Logs and security events can be deleted or manipulated  
+- **Complex Threats**: Attackers exploit runtime and supply-chain vulnerabilities  
+- **Lack of Real-Time Attestation**: Security breaches are often detected too late  
 
-### 2.3 Web3 Adoption Barriers
+### 2.3 Barriers to Web3 Adoption
 
-- **Complexity Overhead:** High gas costs and specialized developer tools fragment workflows and discourage non-technical adoption.
-- **Key Management Risks:** Self-custody wallets expose enterprises to operational key loss and recovery challenges.
-- **Interoperability Gaps:** Multiple networks with disparate consensus models create integration bottlenecks.
+- **High Gas Fees**: User onboarding is expensive and intimidating  
+- **Wallet Complexity**: Managing private keys is risky and confusing  
+- **Cross-Chain Confusion**: Interoperability across blockchains is still broken
 
-:::info Aussivo’s Solution :
-We unify cloud and blockchain ecosystems under a single, coherent framework—combining on-chain provenance, continuous security attestation, gasless operations, and cross-chain interoperability—empowering organizations to deploy and audit infrastructure with confidence and ease.
+:::info Aussivo’s Answer :
+Aussivo solves all of these challenges by bringing together cloud-level orchestration and blockchain-level transparency - in one platform.
+
+With features like on-chain resource tracking, real-time security proofs, gasless transactions, and multi-chain support, Aussivo makes it easy for any team - technical or not - to deploy, secure, and scale decentralized applications with full confidence.
 :::
 
 ## 3. Our Solution
 
-Aussivo’s architecture fuses advanced blockchain and cloud paradigms to eliminate traditional bottlenecks.
+Aussivo’s ecosystem is built with modular, enterprise-grade architecture to remove the friction of both Web2 and Web3 infrastructure.
 
 ### 3.1 On-Chain Governance & Auditability
 
-- **Resource Provenance:** Every VM, container, and data object logs as discrete blockchain transactions, capturing metadata such as geolocation, configuration parameters, and usage duration.
-- **Deterministic Billing:** Automated billing smart contracts trigger cost events at resource lifecycle milestones, generating verifiable invoices and simplifying third-party audits.
+- **Track Everything**: Every virtual machine, container, or data file is logged as an on-chain transaction — capturing details like location, configs, and runtime duration  
+- **Auto Billing**: Smart contracts trigger usage-based billing at each stage, with real-time invoices that auditors and partners can verify instantly  
 
 ### 3.2 Advanced Security Agent (ASA)
 
-- **Continuous Verification:** ASA continuously monitors system integrity, generating cryptographic proofs for file hashes, process attestations, and network anomaly records.
-- **Hardware-Rooted Trust:** In Enhanced Tier, ASA runs within Nitro Enclaves with Trusted Launch, leveraging hardware-based attestation to guarantee code authenticity.
-- **On-Chain Anchoring:** Signed logs are periodically anchored on SPoS, creating an immutable, time-stamped security ledger accessible to auditors and regulators.
+- **24/7 Monitoring**: ASA constantly checks file integrity, running processes, and network activity — turning them into verifiable cryptographic proofs  
+- **Hardware Attestation**: In higher tiers, ASA runs inside Nitro Enclaves using trusted hardware to prove code authenticity  
+- **Immutable Logs**: Security logs are anchored to the blockchain, ensuring tamper-proof audit trails for regulators and compliance teams  
 
 ### 3.3 Secure zk-Rollup Layer
 
-- **High-Throughput Processing:** Batch hundreds of user operations into single zk-proof commitments, drastically increasing transaction throughput and reducing per-operation fees by orders of magnitude.
-- **Real-Time Finality:** zk-proof verification on SPoS ensures sub-second settlement guarantees, making the layer-2 extensibility indistinguishable from mainnet performance.
+- **Massive Scale**: Bundles hundreds of transactions into a single zk-proof, reducing fees and congestion  
+- **Instant Finality**: Each zk-proof is verified by the Aussivo mainnet within seconds, making layer-2 interactions feel just as fast as layer-1  
 
 ### 3.4 Gastank Relayer Network
 
-- **Fee Sponsorship Architecture:** Distributed relayer nodes fund on-chain gas costs, charging users via off-chain settlement in ASVO.
-- **Meta-Transaction Protocol:** Users sign intent messages which relayers transform into native transactions, removing gas token requirements from end-user workflows.
-- **Cross-Chain Routing:** Relayers intelligently route transactions across EVM-compatible and emerging chains to optimize latency and cost.
+- **No More Gas Worries**: Gastank nodes handle gas payments for users and settle later using $ASVO  
+- **Meta-Transactions**: Users only sign an intent — the relayer turns that into a blockchain transaction  
+- **Cross-Chain Smart Routing**: Relayers choose the best path across EVM and non-EVM chains for lowest latency and cost  
 
 ### 3.5 One-Click AI Marketplace
 
-- **Curated Service Library:** AI-driven vetting and performance benchmarking surface best-in-class deployment templates for services including LMS, ERP, AI inference, and DeFi integrations.
-- **Instant Instantiation:** Infrastructure-as-code scripts and smart-contract templates automate networking, storage, and compute orchestration in minutes, not days.
+- **Pre-Built Templates**: Deploy ERP systems, LMS apps, AI inference engines, and DeFi modules in a few clicks  
+- **Fast Setup**: Use Infrastructure-as-Code and pre-audited contracts to go live in minutes, not days  
+- **Benchmarked & Curated**: Only high-performance services make it to the marketplace, backed by AI vetting  
 
-### 3.6 Deflationary COIN (ASVO)
+### 3.6 Deflationary Token – $ASVO
 
-- **Burn Mechanics:** EIP-1559-style fee burns ensure deflationary pressure aligned with network usage growth.
-- **DAO-Driven Policy:** COIN holders vote on economic parameters, fee rates, and upgrade proposals through on-chain governance modules.
+- **Automatic Burns**: A portion of every transaction is burned using an EIP-1559-style model, reducing total supply over time  
+- **DAO-Led Evolution**: $ASVO holders vote on key protocol decisions, fee structures, and feature upgrades  
 
 
 ## 4. Architecture Overview
 
-### 4.1 SPoS Blockchain
+### 4.1 SPoS Blockchain Layer
 
-- **Consensus:** Validator pools stake ASVO to secure the network; VRF-based leader selection and dynamic sharding maximize performance and decentralization.
-- **Throughput:** Combined with zk-rollups, target throughput exceeds 10,000 TPS under optimal conditions.
+- **Secure Proof-of-Stake (SPoS)**: Validator nodes stake $ASVO to secure the chain  
+- **Fast & Fair**: Leader selection uses VRF (Verifiable Random Function) for fairness  
+- **High Performance**: Supports 15,000+ TPS with zk-rollups and sharding  
 
 ### 4.2 Core System Components
 
-| **Component**         | **Role & Interactions**                                                                 |
-|-----------------------|------------------------------------------------------------------------------------------|
-| **Validator Nodes**   | Validate blocks, verify zk-proofs, and finalize transactions on SPoS.                    |
-| **Gastank Relayers**  | Transform user meta-transactions into native transactions, sponsor gas, and reconcile ASVO fees. |
-| **Security Agent (ASA)** | Executes integrity checks and anchors signed proofs on-chain.                        |
-| **AI Marketplace**     | Curates, benchmarks, and deploys distributed applications via smart-contract orchestration. |
-| **Cross-Chain Bridges** | ZK and multisig bridges facilitate secure asset and message transfer across heterogeneous networks. |
+| **Component**         | **Function**                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| **Validator Nodes**   | Stake $ASVO, validate blocks, verify zk-proofs, finalize transactions        |
+| **Gastank Relayers**  | Convert meta-transactions, sponsor gas, and settle ASVO fees off-chain       |
+| **Security Agent (ASA)** | Runs continuous audits and anchors verified security logs on-chain       |
+| **AI Marketplace**    | Deploys pre-built smart services via Infrastructure-as-Code templates         |
+| **Cross-Chain Bridges** | Connects Aussivo with EVM and non-EVM chains via zk and multisig bridges |
 
 ### Component Diagram
 <img src="/img/component_diagram.png" alt="Component Diagram" width="1000" height="600" />
