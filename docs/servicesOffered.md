@@ -2,25 +2,35 @@
 title: Services & Operational Workflows
 ---
 
-## Full Hosting Lifecycle Flow
+Aussivo offers a secure, transparent, and fully on-chain process for hosting and deploying services — from wallet login to infrastructure activation.
 
-An eight-stage process engineered for reliability, auditability, and security:
+## End-to-End Hosting Workflow
 
-1. **Wallet Authentication:** Front-end authenticates user via wallet signature (Metamask, WalletConnect, etc.).
+Here’s how Aussivo handles service provisioning — in 8 streamlined steps:
 
-2. **Service Catalog Selection:** User picks compute, storage, or hosting templates; optionally configures custom parameters.
+1. **Wallet Login :**
+Users log in using crypto wallets like Metamask or WalletConnect. No passwords — just secure wallet signatures.
 
-3. **Meta-Transaction Drafting:** Front-end constructs and signs meta-transaction payload.
+2. **Service Selection :**
+Users choose from pre-configured templates for compute, storage, or full hosting setups. Custom parameters can be added.
 
-4. **Relayer Submission:** Gastank node receives meta-tx, wraps it in a native transaction, and broadcasts to SPoS.
+3. **Meta-Transaction Creation :**  
+The system creates a signed meta-transaction with all selected options and instructions.
 
-5. **On-Chain Smart Contract Execution:** Billing, provisioning triggers, and usage counters are recorded as blockchain events.
+4. **Relayer Submission :**  
+Aussivo’s Gastank relayer receives the meta-tx, wraps it into a blockchain-ready transaction, and submits it to the SPoS chain.
 
-6. **Provider Integration:** Orchestrator microservice invokes APIs on Aussivo DC, AWS (with Nitro Enclave), or Alibaba Cloud to instantiate resources.
+5. **Smart Contract Execution :**  
+Smart contracts handle billing, trigger provisioning, and log usage events — all on-chain and fully auditable.
 
-7. **Security Agent Deployment:** ASA installs on the new resource, performs initial integrity scans, and anchors hashes on-chain.
+6. **Cloud Integration :**  
+Aussivo’s orchestrator invokes APIs to launch resources — whether on Aussivo’s native data centers, AWS (with Nitro Enclave), or Alibaba Cloud.
 
-8. **Service Activation & Monitoring:** Front-end updates user dashboard with resource endpoints, provisioning status, and security attestation history.
+7. **Security Agent Deployment :**  
+The Advanced Security Agent (ASA) is auto-installed on new instances. It performs integrity scans and records results on-chain.
+
+8. **Live Dashboard Monitoring :**  
+Users can monitor everything in real time — from service activation and endpoints to billing, uptime, and security logs.
 
 <img src="/img/full-hosting.png" alt="Data Flow Diagram" width="1000" height="600" />
 
