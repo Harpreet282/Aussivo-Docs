@@ -2,7 +2,7 @@
 title: Services & Operational Workflows
 ---
 
-Aussivo offers a secure, transparent, and fully on-chain process for hosting and deploying services — from wallet login to infrastructure activation.
+Aussivo powers Web3-native DevOps — enabling developers to log in with wallets, activate decentralized infrastructure, and manage compute and storage on-chain with total transparency.
 
 ## End-to-End Hosting Workflow
 

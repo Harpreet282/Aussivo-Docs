@@ -12,7 +12,7 @@ an autonomous, blockchain-powered ecosystem delivering scalable compute, hosting
 
 ## 1.Executive Summary
 
-Aussivo is redefining decentralized infrastructure by combining a fast, scalable blockchain with powerful cloud-native tools - all in one seamless platform
+Aussivo is an intelligent blockchain layer that integrates seamlessly with cloud infrastructure — bringing decentralization, auditability, and automation to the heart of modern cloud systems.
 
 At its core, **Aussivo** uses a **Secure Proof-of-Stake (SPoS)** blockchain enhanced with **zk-rollup** technology, allowing the network to process over **15,000+ transactions per second (TPS)**. This ensures high speed and low fees, without compromising security or decentralization.
 
