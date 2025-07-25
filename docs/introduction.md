@@ -25,7 +25,7 @@ Powering the entire ecosystem is **$ASVO**, a deflationary utility token used fo
 ## Key Highlights
 
 - **Scalability**: 15,000+ TPS with zk-rollup and sharding enhancements  
-- **Gasless UX**: No wallet or gas tokens needed for end users  
+- **Gasless UX**: No wallet or gas coins needed for end users  
 - **Built-in Security**: Hardware-based verification with Nitro Enclaves  
 - **Smart Tokenomics**: Deflationary $ASVO with burn mechanics  
 - **Governance Ready**: On-chain DAO and emergency override system (GateSeal)
