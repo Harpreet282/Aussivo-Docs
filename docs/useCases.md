@@ -14,7 +14,7 @@ Aussivo’s flexible infrastructure supports real-world applications across indu
 
 ### Healthcare Data & Compliance
 
-- **Who it helps:** Biotech, hospitals, genomic labs  
+- **Who it helps:** Biotech, hospitals, genomic labs
 - **How it works:** Sensitive patient/genomic data is hosted inside Nitro Enclaves with full data sovereignty control.  
 - **Why Aussivo:** On-chain attestations prove compliance with HIPAA, GDPR, and regional data laws — enabling cross-border research with regulatory confidence.
 
@@ -22,7 +22,7 @@ Aussivo’s flexible infrastructure supports real-world applications across indu
 
 ### AI Model Training & Inference
 
-- **Who it helps:** AI startups, research labs, enterprises  
+- **Who it helps:** AI startups, research labs, enterprises
 - **How it works:** Teams rent CPU/GPU clusters on-demand and pay in $ASVO. Cost reports and usage proofs are auto-logged.  
 - **Why Aussivo:** Transparent dashboards make it easy to track compute usage, streamline grant funding, and simplify internal approvals.
 
