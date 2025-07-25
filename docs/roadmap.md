@@ -52,4 +52,4 @@ title: Roadmap
 - Upgrade to **Cross-Chain Bridge v2** (ZK-native interoperability)
 - Target **10,000+ active nodes** and ecosystem-wide staking adoption
 
-<img src="/img/roadmap_img.png" alt="Data Flow Diagram" width="800" height="600" />
+<img src="/img/roadmap.png" alt="Data Flow Diagram" width="1000" height="600" />
