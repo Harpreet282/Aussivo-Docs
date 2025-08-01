@@ -116,4 +116,4 @@ Aussivo’s ecosystem is built with modular, enterprise-grade architecture to re
 | **Cross-Chain Bridges** | Connects Aussivo with EVM and non-EVM chains via zk and multisig bridges |
 
 ### Component Diagram
-<img src="/img/comp_diagram.jpeg" alt="Component Diagram" width="1000" height="500" />
+<img src="/img/component_diagram.png" alt="Component Diagram" width="1000" height="600" />
